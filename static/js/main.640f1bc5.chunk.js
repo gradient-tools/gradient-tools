@@ -1,0 +1,2 @@
+(this["webpackJsonpgradient-tools"]=this["webpackJsonpgradient-tools"]||[]).push([[0],{10:function(e,t,n){"use strict";n.r(t);n(1);var c=n(3),s=n.n(c),r=(n(8),n(0));var i=function(){return Object(r.jsx)("div",{className:"bgimg",children:Object(r.jsx)("h1",{className:"middle",children:"COMING SOON!"})})};var o=function(){return Object(r.jsx)("div",{children:Object(r.jsx)(i,{})})};s.a.render(Object(r.jsx)(o,{}),document.getElementById("root"))},8:function(e,t,n){}},[[10,1,2]]]);
+//# sourceMappingURL=main.640f1bc5.chunk.js.map
